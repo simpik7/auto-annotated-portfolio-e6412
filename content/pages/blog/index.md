@@ -1,6 +1,6 @@
 ---
 type: PostFeedLayout
-title: Blog
+title: Privacy
 colors: colors-a
 backgroundImage:
   type: BackgroundImage
